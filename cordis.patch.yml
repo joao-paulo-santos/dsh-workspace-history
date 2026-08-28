@@ -1,0 +1,6 @@
+# dsh-workspace-history profile layer: one row mounting the host half.
+# The browser half is discovered through package.json's dsh.client declaration
+# (served at /plugins/dsh-workspace-history/client.js by the client module system).
+- insert:
+    - id: workspace-history
+      name: dsh-workspace-history
