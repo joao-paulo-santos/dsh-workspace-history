@@ -45,6 +45,7 @@ Restart the harness; the History subtab appears in Workspace Overview.
 
 - [dsh-granular-settings](https://github.com/joao-paulo-santos/dsh-granular-settings) hosts the "Save compaction history" session toggle (required; without it the plugin does not run, because the toggle is the only control surface)
 - [dsh-workspace-overview](https://github.com/joao-paulo-santos/dsh-workspace-overview) hosts the History subtab (optional; the journal keeps writing without it, the client half simply stays inactive)
+- [dsh-md-view](https://github.com/joao-paulo-santos/dsh-md-view) renders journal bodies as markdown (optional; without it bodies show as plain text)
 
 ## Plugins dependent on this
 
