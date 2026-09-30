@@ -1,6 +1,6 @@
 {
   "name": "dsh-workspace-history",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "Workspace History: journals every compaction summary to <workspace>/.dsh/history/<unix-ts>.<short-session-id>.md, and adds a History subtab to the Workspace Overview tab for reading the journal. Per-session toggle lives in the granular Settings tab — requires dsh-granular-settings (hard dependency).",
   "type": "module",
   "license": "MIT",
